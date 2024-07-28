@@ -1,6 +1,8 @@
 ![Header](https://github.com/smmishra0786/smmishra0786/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm SHIVMOHAN MISHRA</h1>
+
 <h3 align="center">Salesforce Developer from India | Innovating with Apex and Lightning</h3>
+
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smmishra0786&label=Profile%20views&color=0e75b6&style=flat" alt="smmishra0786" /> </p>
 
@@ -53,14 +55,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
 </div><br>
 
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smmishra0786&show_icons=true&locale=en&layout=compact" alt="smmishra0786" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smmishra0786&show_icons=true&locale=en" alt="smmishra0786" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smmishra0786&" alt="smmishra0786" /></p>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<br clear="both">
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
 <img src="https://raw.githubusercontent.com/smmishra0786/smmishra0786/output/snake.svg" alt="Snake animation" />
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
