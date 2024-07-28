@@ -53,9 +53,9 @@
   <img src="https://skillicons.dev/icons?i=eclipse" height="30" alt="eclipseide logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-</div><br>
+</div>
 
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smmishra0786&show_icons=true&locale=en&layout=compact" alt="smmishra0786" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smmishra0786&show_icons=true&locale=en" alt="smmishra0786" /></p>
