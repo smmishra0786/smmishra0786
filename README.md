@@ -60,6 +60,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smmishra0786&" alt="smmishra0786" /></p>
 
 <br clear="both">
-
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
 <img src="https://raw.githubusercontent.com/smmishra0786/smmishra0786/output/snake.svg" alt="Snake animation" />
 
