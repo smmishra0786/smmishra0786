@@ -1,4 +1,4 @@
-![Header](https://github.com/smmishra0786/smmishra0786/blob/f6847a6981f72470e83720c8a0ccb63ce670d163/MLOps_Kloeckner_Hero_Banner_1920x946.gif)
+![Header](https://github.com/smmishra0786/smmishra0786/blob/3259a8fc5d6f828618e65478a9c75c950e8d86d4/GitHub_Banner_Image.gif)
 <h1 align="center">Hi 👋, I'm SHIVMOHAN MISHRA</h1>
 
 <h3 align="center">Salesforce Developer from India | Innovating with Apex and Lightning</h3>
