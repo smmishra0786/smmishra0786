@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **smmishra0786@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/4detVhl](https://bit.ly/4detVhl)
+- 📄 Know about my experiences [https://github.com/smmishra0786/smmishra0786/blob/cdf3c62484fe29c1b3a7685d8b60e7d80439c9f3/Shivmohan_Mishra__Resume_1.pdf]
   
 - ⚡ Fun fact **🌐 I can code in Apex, JavaScript, and occasionally, in my dreams!**
 
