@@ -11,8 +11,8 @@
 
 - 📫 How to reach me **smmishra0786@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/4dlvwlm](https://bit.ly/4dlvwlm)
-
+- 📄 Know about my experiences [https://bit.ly/4detVhl](https://bit.ly/4detVhl)
+  
 - ⚡ Fun fact **🌐 I can code in Apex, JavaScript, and occasionally, in my dreams!**
 
 <h3 align="left">Connect with me:</h3>
